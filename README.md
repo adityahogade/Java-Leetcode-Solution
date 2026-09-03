@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0047-permutations-ii) |
 ## Sorting
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
