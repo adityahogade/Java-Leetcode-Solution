@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0078-subsets) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0078-subsets) |
 ## Sorting
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
