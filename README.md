@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0052-n-queens-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
