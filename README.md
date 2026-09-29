@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,5 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
