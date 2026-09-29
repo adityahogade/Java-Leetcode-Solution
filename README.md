@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
@@ -87,4 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
