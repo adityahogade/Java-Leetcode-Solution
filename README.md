@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/1934-confirmation-rate) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
