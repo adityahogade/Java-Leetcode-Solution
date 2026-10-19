@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityahogade/Java-Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
